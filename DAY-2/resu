@@ -1,0 +1,63 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <title>Resume</title>
+    </head>
+    <body>
+        <center>
+            <h1> RESUME</h1>
+        </center>
+        <h2> NAGA UDAY KIRAN</h2>
+        <P>Email: nagauday7788@gmail.com</P>
+        <p>phone no: 7659837935</p>
+        <h3>OBJECTIVE</h3>
+        <hr>
+        <p> Python developer with a mission to catalyze a coding revolution and foster organizational growth. Seeking a position
+            in a company where I can utilize my skills in Python, Django, HTML, CSS to their fullest potential. Dedicated to
+            launching my career, building a valuable skill set, and contributing to impactfull projects. Eager to join reputed
+            companies for skill enhancement and professional growth.</p>
+        <h3>EDUCATION</h3> 
+        <hr>
+        <h5>Bachelor of Technology :</h5>
+        <p>Holy mary institute of tech and science (2020-2024)</p>
+        <h5>Intermediate MPC :</h5>
+        <p>Sri Gayatri Junior College (2018-2020)</p>
+        <h5> SSC :</h5>
+        <P>ZP High school (2017-2018)</P>
+        <h3>SKILLS</h3>
+        <hr>
+        <ul>
+            <li>HTML/CSS</li>
+            <li>Python</li>
+            <li>Java script</li>
+            <li>Responsive Web Design</li>
+        </ul>
+        <h3>CERTIFICATES</h3>
+        <hr>
+        <ul>
+            <li>Achieved an Python Programming Badge at IBM.</li>
+            <li>  Completed intensive Python for Data Science Course by IBM, strengthening skills in Python for data analysis
+            and manipulation. </li>
+            <li>Achieved an extensive Python Programming Course at MIND LUSTER.</li>
+        </ul>
+        <h3>SOFT SKILLS</h3>
+        <hr>
+        <ul>
+            <li>Problem solving.</li>
+            <li> Communication Skills.</li>
+            <li>Time management.</li>
+        </ul>
+        <h3>HOBBIES</h3>
+        <hr>
+        <ul>
+            <li>Playing cricket. </li>
+            <li>Listneing music</li>
+        </ul>
+        <h3>DECLARATION</h3>
+        <hr>
+        <ul>
+            <li>The information presented in this resume accurately reflects my qualifications and experience.</li>
+        </ul>
+               
+    </body>
+</html>

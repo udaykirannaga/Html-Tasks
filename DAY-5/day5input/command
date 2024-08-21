@@ -1,0 +1,153 @@
+<!DOCTYPE html>
+<html>
+    <head></head>
+    <body>
+        <center>
+            <h1 style="color:RGB(52, 183, 235)"><u>VISUAL STUDTIO CODE</u></h1>
+            <img src="https://repository-images.githubusercontent.com/657248114/d3c7b91a-b285-4d1e-8429-5de1acc5f61e" width="200" height="100">
+        </center>
+        <P>Visual Studio is a software development tool created by Microsoft. Think of it like a powerful toolkit that helps programmers write, test, and debug their code. Visual Studio Code (VS Code) is a versatile and widely used source-code editor developed by Microsoft. It’s designed for developers and offers a lightweight yet powerful environment for writing, editing, and debugging code.</P>
+        <h2>Features of vs code :</h2>
+        <p>1.Code editing:</p>
+        <ul>
+            <li>Syntax Highlighting: Colors your code to make it easier to read.</li>
+            <li>Auto-completion: Suggests code completions as you type.</li>
+            <li>Code Snippets: Provides templates for common code structures.</li>
+        </ul>
+        <p>2.Integrated terminal:</p>
+        <ul>
+            <li>Allows you to run command-line tools directly within the editor.</li>
+        </ul>
+        <p>3.Extensions and Customization:</p>
+        <ul>
+            <li>You can install extensions to add new features, such as support for different programming languages, themes, and tools.</li>
+            <li>Customize the editor’s look and functionality to fit your workflow.</li>
+        </ul>
+        <p>4.Platform support:</p>
+        <ul>
+            <li>Macos,Widows,Linux.</li>
+        </ul>
+        <p>5.Debuggig.</p>
+        <ul>
+            <li>Set breakpoints and step through your code to find and fix issues.</li>
+        </ul>
+        <p>6.File explore: </p>
+        <ul>
+            <li>Browse and manage your project files and folders.</li>
+        </ul>
+        <p>7.Live share:</p>
+        <ul>
+            <li>Collaborate with others in real-time by sharing your code, terminal, and debugging sessions.</li>
+        </ul>
+        <center>
+            <table border="2" cellpadding="10" >
+                <caption style="color:green"><h3>VS Code keboard Shortcuts:</h3></caption>
+        </center>
+            <tr style="color:white" bgcolor="Black">
+                <td>Commands</td>
+                <td>Description</td>
+            </tr>
+            <tr bgcolor="lightblue">
+                <td>ctrl s</td>
+                <td>Save </td>
+            </tr>
+            <tr bgcolor="lightblue">
+                <td>ctrl c</td>
+                <td>copy</td>
+            </tr>
+            <tr bgcolor="lightblue">
+                <td>ctrl v</td>
+                <td>Paste into active terminal</td>
+            </tr>
+            <tr bgcolor="lightblue">
+                <td>ctrl x</td>
+                <td>Cut line</td>
+            </tr>
+            <tr bgcolor="lightblue">
+                <td>ctrl a</td>
+                <td>select all text in docum or webpage</td>
+            </tr>
+            <tr bgcolor="lightblue">
+                <td>ctrl z</td>
+                <td>Undo</td>
+            </tr>
+            <tr bgcolor="lightblue">
+                <td>ctrl y</td>
+                <td>Redo</td>
+            </tr>
+            <tr bgcolor="lightblue">
+                <td>ctrl +</td>
+                <td>increase size</td>
+            </tr>
+            <tr bgcolor="lightblue">
+                <td>ctrl -</td>
+                <td>decrease size</td>
+            </tr>
+            <tr bgcolor="lightblue">
+                <td>shift+ ></td>
+                <td>To select the right side one</td>
+            </tr>
+            <tr bgcolor="lightblue">
+                <td>shift+< </td>
+                <td>To selct the the left side one</td>
+            </tr>
+            <tr bgcolor="lightblue">
+                <td>shift down symbol</td>
+                <td>To select the down text</td>
+            </tr>
+            <tr bgcolor="lightblue">
+                <td>shift up symbol</td>
+                <td>To select the up text</td>
+            </tr>
+            <tr bgcolor="lightblue">
+                <td>ctrl /></td>
+                <td>Comments</td>
+            </tr>
+            <tr bgcolor="lightblue">
+                <td>Shift+Alt + ↓ / ↑</td>
+                <td>Copy line up/down</td>
+            </tr>
+            <tr bgcolor="lightblue">
+                <td>Ctrl+Shift+N</td>
+                <td>New window/instance</td>
+            </tr>
+            <tr bgcolor="lightblue">
+                <td>Ctrl+Shift+W</td>
+                <td>Close window/instance</td>
+            </tr>
+            <tr bgcolor="lightblue">
+                <td>Ctrl+,</td>
+                <td>User Settings</td>
+            </tr>
+            <tr bgcolor="lightblue">
+                <td>Ctrl+K Ctrl+S</td>
+                <td>Keyboard Shortcuts</td>
+            </tr>
+            <tr bgcolor="lightblue">
+                <td>Ctrl+Shift+` </td>
+                <td>Create new terminal</td>
+            </tr>
+            <tr bgcolor="lightblue">
+                <td>Ctrl+Shift+Tab</td>
+                <td>Navigate editor group history</td>
+            </tr>
+            <tr bgcolor="lightblue">
+                <td>Ctrl+U</td>
+                <td>Undo last cursor operation</td>
+            </tr>
+            <tr bgcolor="lightblue">
+                <td>Ctrl+O</td>
+                <td>Open File..</td>
+            </tr>
+            <tr bgcolor="lightblue">
+                <td>Ctrl+F4</td>
+                <td>Close</td>
+            </tr>
+            <tr bgcolor="lightblue">
+                <td>Ctrl+Tab</td>
+                <td>Open next</td>
+            </tr>
+            
+        </table>
+    </body>
+</html>

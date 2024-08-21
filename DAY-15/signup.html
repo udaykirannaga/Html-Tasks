@@ -1,0 +1,41 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+    <style>
+        fieldset{
+            background-image: url("https://images.pexels.com/photos/346529/pexels-photo-346529.jpeg?cs=srgb&dl=pexels-bri-schneiter-28802-346529.jpg&fm=jpg");
+            background-position: center;
+            background-size: cover;
+        }
+        
+    </style>
+</head>
+<body>
+    <center>
+        <form action="">
+            <fieldset style="width: 30%; height: 650px;">
+                <marquee behavior="scroll" direction="right" style="color: blue;"><h1>Sign up</h1></marquee>
+                <p>It's Free and Only take a minute</p>
+                <label for="firstname" style="margin-left: 20px;"><b>First Name :</b></label>
+                <input type="text" id="firstname"  name="firstname" placeholder="Enter your name " > <br><br>
+                <label for=""   style="margin-left: 20px;"><b>Last Name :</b></label>
+                <input type="text" id="lastname" name="lastname" placeholder="Enter your last name" ><br><br>
+                <label for="mail"  style="margin-left: 55px;"><b>Email :</b></label>
+                <input type="text" id="mail" name="email" placeholder="Enter email" > <br><br>
+                <label for="password"  style="margin-left: 28px;"><b>Password :</b></label>
+                <input type="text" id="password" name="password"  placeholder="password"> <br><br>
+                <label for="conpassword"  style="margin-right: 7%;"><b>Confirm Password :</b></label>
+                <input type="text" id="conpassword" style="margin-right: 14%;" name="conformpassword" placeholder="confirm password"><br><br>
+                <input type="submit" value="Signup" formaction="./signupsucces.html" >
+                <p style="margin-top: 24%;">By clicking sign up Button, you agree to our <b>Terms and Conditions</b> and <b>Privacy Policy</b></p>
+                <label for="">Already Have an Account?</label>
+                <a href="./login.html"><b>Login</b></a>
+
+            </fieldset>
+        </form>
+    </center>
+</body>
+</html>
